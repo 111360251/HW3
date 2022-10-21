@@ -1,0 +1,4 @@
+﻿  Main.c
+c:\program\hw3\hw3-5\hw3-5\main.c(8): warning C4013: 'strcpy' 未定義; 假設 extern 傳回整數
+c:\program\hw3\hw3-5\hw3-5\main.c(11): warning C4013: 'strlen' 未定義; 假設 extern 傳回整數
+  HW3-5.vcxproj -> C:\program\HW3\HW3-5\Debug\HW3-5.exe
